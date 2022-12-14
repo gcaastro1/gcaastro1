@@ -13,7 +13,9 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="right" height="100" width="100" src="https://i.imgur.com/jutVZfB.png" />
 </div>
-##
+  
+## 
+  
 <div>
   <a href="https://www.linkedin.com/in/gucaastro1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_eugustavolima/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
